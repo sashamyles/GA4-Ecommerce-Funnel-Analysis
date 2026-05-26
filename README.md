@@ -33,4 +33,4 @@ This project evaluates the multi-stage user purchase funnel of the Google Mercha
 2. **Reallocate Marketing Budgets to Mobile Traffic:** Mobile users display highly efficient transactional completion rates once lower-funnel intent is locked. Marketing acquisition strategies should confidently ramp up ad spend targeting mobile environments.
 
 ---
-📝 *Read the comprehensive case study break-down on my [Medium Article Page](YOUR_MEDIUM_LINK_HERE).*  
+📝 *Read the comprehensive case study break-down on my [Medium Article Page](https://medium.com/@sashmyle/the-77-drop-off-a-purchase-funnel-analysis-of-the-google-merchandise-store-0bc6518a1679).*  
